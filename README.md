@@ -9,6 +9,7 @@ The project serves as an excellent demonstration of basic AI concepts, such as l
 
 <h3>Setup and Installation</h3>
 Prerequisites: Make sure you have Python 3.x installed.
+
 Clone the repository: git clone https://github.com/sujandk/minesweeperai.git
                       cd minesweeper-ai
 
